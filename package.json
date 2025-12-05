@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "canvas": "^3.2.0",
+    "node-qpdf2": "^6.0.0",
     "pdf-lib": "^1.17.1",
-    "pdfjs-dist": "^5.4.449"
+    "pdfjs-dist": "^3.11.174"
   }
 }
